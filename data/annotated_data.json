@@ -1,0 +1,57 @@
+[
+    {
+        "text": "This elegant sofa set is perfect for your living room.",
+        "entities": [
+            {
+                "start": 12,
+                "end": 21,
+                "label": "PRODUCT"
+            },
+            {
+                "start": 22,
+                "end": 25,
+                "label": "PRODUCT"
+            }
+        ]
+    },
+    {
+        "text": "The wooden dining table is both sturdy and stylish.",
+        "entities": [
+            {
+                "start": 10,
+                "end": 22,
+                "label": "PRODUCT"
+            },
+            {
+                "start": 23,
+                "end": 28,
+                "label": "PRODUCT"
+            }
+        ]
+    },
+    {
+        "text": "Get comfortable with our new leather recliner.",
+        "entities": [
+            {
+                "start": 28,
+                "end": 35,
+                "label": "PRODUCT"
+            },
+            {
+                "start": 36,
+                "end": 44,
+                "label": "PRODUCT"
+            }
+        ]
+    },
+    {
+        "text": "This modern bookshelf is ideal for any home office.",
+        "entities": [
+            {
+                "start": 11,
+                "end": 20,
+                "label": "PRODUCT"
+            }
+        ]
+    }
+]
